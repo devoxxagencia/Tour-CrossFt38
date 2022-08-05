@@ -1,9 +1,4 @@
 {
- "start_url": "index.htm",
- "theme_color": "#FF0000",
- "name": "Tour Virtual 360º - Cross FT38",
- "display": "fullscreen",
- "background_color": "#FF0000",
  "icons": [
   {
    "type": "image/png",
@@ -40,5 +35,10 @@
    "sizes": "64x64",
    "src": "misc/icon64.png"
   }
- ]
+ ],
+ "name": "Tour Virtual 360º - Cross FT38",
+ "display": "fullscreen",
+ "background_color": "#FF0000",
+ "start_url": "index.htm",
+ "theme_color": "#FF0000"
 }
