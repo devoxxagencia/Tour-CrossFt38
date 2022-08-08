@@ -14,18 +14,16 @@ Button_25C217AC_37DA_F119_41B6_43D72DD9FDCC.label = PLAYLIST  SPOTIFY
 Button_25C217AC_37DA_F119_41B6_43D72DD9FDCC_mobile.label = PLAYLIST  SPOTIFY 
 Button_587ADC9A_4B27_6D71_41C2_8763A9D74B2C.label = LOCALIZAÇÃO
 Button_587ADC9A_4B27_6D71_41C2_8763A9D74B2C_mobile.label = LOCALIZAÇÃO
-Button_61D52995_6E67_6859_41CE_D1C28A83D74F_mobile.label = GUIA DO INICIANTE 
-Button_7A439285_6791_8BFD_41B5_161B360B0F2F.label = GUIA DO INICIANTE 
+Button_7A439285_6791_8BFD_41B5_161B360B0F2F.label = INSTAGRAM
 Button_7AACF053_6796_8715_41CC_1D8E166A2500_mobile.label = INSTAGRAM
-Button_7E98DB00_6E64_E837_4197_D45BF65A94A0.label = INSTAGRAM
 Button_DD8C155D_FBD8_F703_41E5_3975B98931AA.label = NOSSOS PLANOS!
 Button_DD8C155D_FBD8_F703_41E5_3975B98931AA_mobile.label = NOSSOS PLANOS!
 Button_DEA9ABD5_FBC9_F303_41E1_AB7527566753.label = AULA GRÁTIS!
 Button_DEA9ABD5_FBC9_F303_41E1_AB7527566753_mobile.label = AULA GRÁTIS!
 Button_E6586701_FB4B_7303_41E2_5D84B36689DF.label = FOTOS 360º
 Button_E6586701_FB4B_7303_41E2_5D84B36689DF_mobile.label = FOTOS 360º
-Button_E682BE0D_FB49_3503_41EA_3D7E1FA6BA1B.label = DRONE 
-Button_E682BE0D_FB49_3503_41EA_3D7E1FA6BA1B_mobile.label = DRONE 
+Button_E682BE0D_FB49_3503_41EA_3D7E1FA6BA1B.label = IMAGEM AÉREA
+Button_E682BE0D_FB49_3503_41EA_3D7E1FA6BA1B_mobile.label = IMAGEM AÉREA
 
 ## Media
 
@@ -59,41 +57,14 @@ panorama_6EA7649A_60B2_8F17_4186_5D55B925D579.label = FT38
 
 ### URL
 LinkBehaviour_447C80AD_6793_870C_41C1_9ACFE4CB03F9.source = https://www.instagram.com/ft38_cf/
-LinkBehaviour_61D6F996_6E67_685B_41BF_5D10DC561610.source = https://drive.google.com/file/d/1qMwNtm9ElZW5gFXwIvQ2Jr3T398tSNYd/view
 LinkBehaviour_78298CA4_60B7_BF33_41CD_3B75D1E4D601.source = https://www.google.com/maps/dir//ACADEMIA+FT38_CF+-+R.+1034,+n%C2%B0+61+-+St.+Pedro+Ludovico,+Goi%C3%A2nia+-+GO,+74820-300/@-16.714705,-49.2590754,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x935ef0fd4709e903:0x3a8f9807ff52d138!2m2!1d-49.2568946!2d-16.7147053
 LinkBehaviour_78299CA4_60B7_BF33_41C3_ECCA509430EA.source = https://open.spotify.com/playlist/3kTr3kUcLy6ndE1J0wIy0z?si=9578807deb4243d5&nd=1
 LinkBehaviour_782E7CB4_60B7_BF13_41B4_9CC69DCE8F51.source = https://api.whatsapp.com/send?phone=5562981270596&text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20uma%20Aula%20Experimental.
 LinkBehaviour_783B2DA2_609E_9937_41CF_57882DCF4BB9.source = https://drive.google.com/file/d/1XOWcIjtk0zKf9R9mL7cRdKperwmAoHLs/view
 LinkBehaviour_7872F4F2_60B1_8F14_41C0_C9AAE9DC9334.source = https://www.instagram.com/ft38_cf/
 LinkBehaviour_78834106_608F_86FF_41CE_443B6C9AE25B.source = https://www.google.com/maps/dir//ACADEMIA+FT38_CF+-+R.+1034,+n%C2%B0+61+-+St.+Pedro+Ludovico,+Goi%C3%A2nia+-+GO,+74820-300/@-16.714705,-49.2590754,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x935ef0fd4709e903:0x3a8f9807ff52d138!2m2!1d-49.2568946!2d-16.7147053
-LinkBehaviour_7A410287_6791_8BFD_41CA_1E535113ED02.source = https://drive.google.com/file/d/1qMwNtm9ElZW5gFXwIvQ2Jr3T398tSNYd/view
+LinkBehaviour_7A410287_6791_8BFD_41CA_1E535113ED02.source = https://www.instagram.com/ft38_cf/
 LinkBehaviour_7B486FE6_6792_B93C_41B2_29BEBCFA731F.source = https://www.instagram.com/ft38_cf/
-LinkBehaviour_7B53AA3E_608E_9B0F_41B9_F63B6E08B23B.source = https://drive.google.com/file/d/1qMwNtm9ElZW5gFXwIvQ2Jr3T398tSNYd/view
+LinkBehaviour_7B53AA3E_608E_9B0F_41B9_F63B6E08B23B.source = https://open.spotify.com/playlist/3kTr3kUcLy6ndE1J0wIy0z?si=9578807deb4243d5&nd=1
 LinkBehaviour_7B7BD4A6_60B1_8F3C_41CE_7D1BE6D9EBBD.source = https://api.whatsapp.com/send?phone=5562981270596&text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20uma%20Aula%20Experimental.
-LinkBehaviour_7E9D1B01_6E64_E839_41D5_2C264D6599F8.source = https://www.instagram.com/ft38_cf/
 LinkBehaviour_7EB2E13A_609E_8917_41D0_8646280E57CC.source = https://drive.google.com/file/d/1XOWcIjtk0zKf9R9mL7cRdKperwmAoHLs/view
-
-## E-Learning
-
-### Score Name
-score1.label = Score 1
-
-### Question Screen
-quizQuestion_7C4AF13B_6E7F_D848_41D2_E3A12603FB85.ok = OK
-
-### Report Screen
-quizScore_7C44013B_6E7F_D848_41C5_62F39AA43D7F.completion = Completed
-quizScore_7C44013B_6E7F_D848_41C5_62F39AA43D7F.downloadCSV = Download .csv
-quizScore_7C44013B_6E7F_D848_41C5_62F39AA43D7F.elapsedTime = Time
-quizScore_7C44013B_6E7F_D848_41C5_62F39AA43D7F.items = Items Found
-quizScore_7C44013B_6E7F_D848_41C5_62F39AA43D7F.questions = Questions
-quizScore_7C44013B_6E7F_D848_41C5_62F39AA43D7F.questionsCorrect = Correct
-quizScore_7C44013B_6E7F_D848_41C5_62F39AA43D7F.questionsIncorrect = Incorrect
-quizScore_7C44013B_6E7F_D848_41C5_62F39AA43D7F.repeat = Repeat
-quizScore_7C44013B_6E7F_D848_41C5_62F39AA43D7F.submitToLMS = Submit
-quizScore_7C44013B_6E7F_D848_41C5_62F39AA43D7F.title = - SCORE -
-
-### Timeout Screen
-quizTimeout_7C4AF13A_6E7F_D848_41B5_4486AF2303F3.repeat = Repeat
-quizTimeout_7C4AF13A_6E7F_D848_41B5_4486AF2303F3.score = View Score
-quizTimeout_7C4AF13A_6E7F_D848_41B5_4486AF2303F3.title = - TIMEOUT -

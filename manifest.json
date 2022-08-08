@@ -37,8 +37,8 @@
   }
  ],
  "name": "Tour Virtual 360º - Cross FT38",
- "display": "fullscreen",
  "background_color": "#FF0000",
+ "display": "fullscreen",
  "start_url": "index.htm",
  "theme_color": "#FF0000"
 }
