@@ -1,4 +1,9 @@
 {
+ "start_url": "index.htm",
+ "name": "Passeio Virtual 360º - Academia Cross FT38",
+ "description": "Conheça toda à nossa estrutura em Metaverso.",
+ "display": "fullscreen",
+ "theme_color": "#FF0000",
  "icons": [
   {
    "type": "image/png",
@@ -36,9 +41,5 @@
    "src": "misc/icon64.png"
   }
  ],
- "name": "Tour Virtual 360º - Cross FT38",
- "background_color": "#FF0000",
- "display": "fullscreen",
- "start_url": "index.htm",
- "theme_color": "#FF0000"
+ "background_color": "#FF0000"
 }

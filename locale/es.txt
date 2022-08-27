@@ -3,29 +3,22 @@
 ## Tour
 
 ### Description
+tour.description = Conheça toda à nossa estrutura em Metaverso.
 
 ### Title
-tour.name = Tour Virtual 360º - Cross FT38
+tour.name = Passeio Virtual 360º - Academia Cross FT38
 
 ## Skin
 
 ### Button
-Button_25C217AC_37DA_F119_41B6_43D72DD9FDCC.label = PLAYLIST  SPOTIFY 
-Button_25C217AC_37DA_F119_41B6_43D72DD9FDCC_mobile.label = PLAYLIST  SPOTIFY 
-Button_587ADC9A_4B27_6D71_41C2_8763A9D74B2C.label = LOCALIZAÇÃO
-Button_587ADC9A_4B27_6D71_41C2_8763A9D74B2C_mobile.label = LOCALIZAÇÃO
-Button_6B42EBEE_7FDE_54AA_41C8_E15F4E8FD0C4.label = INSTAGRAM 
-Button_6B42EBEE_7FDE_54AA_41C8_E15F4E8FD0C4_mobile.label = INSTAGRAM 
-Button_7A439285_6791_8BFD_41B5_161B360B0F2F.label = INICIANTE 
-Button_7A439285_6791_8BFD_41B5_161B360B0F2F_mobile.label = INICIANTE 
-Button_DD8C155D_FBD8_F703_41E5_3975B98931AA.label = NOSSOS PLANOS!
-Button_DD8C155D_FBD8_F703_41E5_3975B98931AA_mobile.label = NOSSOS PLANOS!
-Button_DEA9ABD5_FBC9_F303_41E1_AB7527566753.label = AULA GRÁTIS!
-Button_DEA9ABD5_FBC9_F303_41E1_AB7527566753_mobile.label = AULA GRÁTIS!
-Button_E6586701_FB4B_7303_41E2_5D84B36689DF.label = FOTOS 360º
-Button_E6586701_FB4B_7303_41E2_5D84B36689DF_mobile.label = FOTOS 360º
-Button_E682BE0D_FB49_3503_41EA_3D7E1FA6BA1B.label = DRONE 
-Button_E682BE0D_FB49_3503_41EA_3D7E1FA6BA1B_mobile.label = DRONE 
+Button_A021923B_B23F_762B_41C9_D88AE6B679EB.label = PlayList Spotify 
+Button_A021923B_B23F_762B_41C9_D88AE6B679EB_mobile.label = PlayList Spotify 
+Button_A0DCD0C0_B23F_1255_41E3_7DF8C0B07A4A.label = Aula Grátis
+Button_A0DCD0C0_B23F_1255_41E3_7DF8C0B07A4A_mobile.label = Aula Grátis
+Button_A157FC70_B23F_1235_41B4_A47CA8EDB7F4.label = Foto Aérea 
+Button_A157FC70_B23F_1235_41B4_A47CA8EDB7F4_mobile.label = Foto Aérea 
+Button_A31ACC32_B223_1235_41C9_5E85540954F7.label = Guia Iniciante 
+Button_A31ACC32_B223_1235_41C9_5E85540954F7_mobile.label = Guia Iniciante 
 
 ## Media
 
@@ -58,17 +51,17 @@ panorama_6EA7649A_60B2_8F17_4186_5D55B925D579.label = FT38
 ## Action
 
 ### URL
-LinkBehaviour_6A56477F_7FCE_3DAA_41B8_01A17B61F9D2.source = https://open.spotify.com/playlist/3kTr3kUcLy6ndE1J0wIy0z?si=9578807deb4243d5&nd=1
-LinkBehaviour_6A56B779_7FCE_3DB6_41A0_66B17AB0E12A.source = https://www.instagram.com/ft38_cf/
-LinkBehaviour_6A56B78C_7FCE_3D6E_41CA_2FF4E806ACEA.source = https://drive.google.com/file/d/1XOWcIjtk0zKf9R9mL7cRdKperwmAoHLs/view
-LinkBehaviour_6A69177D_7FCE_3DAE_41C7_808A9A6B0EB1.source = https://www.google.com/maps/dir//ACADEMIA+FT38_CF+-+R.+1034,+n%C2%B0+61+-+St.+Pedro+Ludovico,+Goi%C3%A2nia+-+GO,+74820-300/@-16.714705,-49.2590754,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x935ef0fd4709e903:0x3a8f9807ff52d138!2m2!1d-49.2568946!2d-16.7147053
-LinkBehaviour_6A693789_7FCE_3D56_41D8_49C7DD3E5662.source = https://www.instagram.com/ft38_cf/
-LinkBehaviour_6A69578A_7FCE_3D6A_41C2_B798FBA87537.source = https://api.whatsapp.com/send?phone=5562981270596&text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20uma%20Aula%20Experimental.
-LinkBehaviour_6A6A7770_7FCE_3DB6_41C2_33D971122A10.source = https://drive.google.com/file/d/1qMwNtm9ElZW5gFXwIvQ2Jr3T398tSNYd/view
-LinkBehaviour_6B4F18A7_7FC2_535A_41D4_980C4AF7D317.source = https://www.instagram.com/ft38_cf/
-LinkBehaviour_783B2DA2_609E_9937_41CF_57882DCF4BB9.source = https://drive.google.com/file/d/1XOWcIjtk0zKf9R9mL7cRdKperwmAoHLs/view
-LinkBehaviour_7872F4F2_60B1_8F14_41C0_C9AAE9DC9334.source = https://www.instagram.com/ft38_cf/
-LinkBehaviour_78834106_608F_86FF_41CE_443B6C9AE25B.source = https://www.google.com/maps/dir//ACADEMIA+FT38_CF+-+R.+1034,+n%C2%B0+61+-+St.+Pedro+Ludovico,+Goi%C3%A2nia+-+GO,+74820-300/@-16.714705,-49.2590754,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x935ef0fd4709e903:0x3a8f9807ff52d138!2m2!1d-49.2568946!2d-16.7147053
-LinkBehaviour_7A410287_6791_8BFD_41CA_1E535113ED02.source = https://drive.google.com/file/d/1qMwNtm9ElZW5gFXwIvQ2Jr3T398tSNYd/view
-LinkBehaviour_7B53AA3E_608E_9B0F_41B9_F63B6E08B23B.source = https://open.spotify.com/playlist/3kTr3kUcLy6ndE1J0wIy0z?si=9578807deb4243d5&nd=1
-LinkBehaviour_7B7BD4A6_60B1_8F3C_41CE_7D1BE6D9EBBD.source = https://api.whatsapp.com/send?phone=5562981270596&text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20uma%20Aula%20Experimental.
+LinkBehaviour_F41E0082_E14E_423F_41A7_D380B25179F9.source = https://drive.google.com/file/d/1qMwNtm9ElZW5gFXwIvQ2Jr3T398tSNYd/view
+LinkBehaviour_F43A2A50_E146_46DC_41E8_1AD3A78A95C6.source = https://www.google.com/maps/dir//ACADEMIA+FT38_CF+-+R.+1034,+n%C2%B0+61+-+St.+Pedro+Ludovico,+Goi%C3%A2nia+-+GO,+74820-300/@-16.714705,-49.2590754,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x935ef0fd4709e903:0x3a8f9807ff52d138!2m2!1d-49.2568946!2d-16.7147053
+LinkBehaviour_F4A96330_E14E_465C_41E4_AF592CDF873D.source = https://open.spotify.com/playlist/3kTr3kUcLy6ndE1J0wIy0z?si=9578807deb4243d5&nd=1
+LinkBehaviour_F4CB1F21_E14E_7E7D_41D1_3BAE6184ACA7.source = https://api.whatsapp.com/send?phone=5562981270596&text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20uma%20Aula%20Experimental.
+LinkBehaviour_F4E5A155_E142_42C5_41B8_556F2DA5DC50.source = https://pt-br.facebook.com/ft38cf/
+LinkBehaviour_F4E5F156_E142_42C7_417E_199ECC7F5850.source = https://www.google.com/maps/dir//ACADEMIA+FT38_CF+-+R.+1034,+n%C2%B0+61+-+St.+Pedro+Ludovico,+Goi%C3%A2nia+-+GO,+74820-300/@-16.714705,-49.2590754,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x935ef0fd4709e903:0x3a8f9807ff52d138!2m2!1d-49.2568946!2d-16.7147053
+LinkBehaviour_F4E67155_E142_42C5_4191_9C4141F0F507.source = https://www.instagram.com/ft38_cf/
+LinkBehaviour_F4E7114D_E142_42C5_41E1_D29A14CF1BF8.source = https://drive.google.com/file/d/1qMwNtm9ElZW5gFXwIvQ2Jr3T398tSNYd/view
+LinkBehaviour_F4E77153_E142_42DD_41EB_8282CFCFA3DC.source = https://api.whatsapp.com/send?phone=5562981270596&text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20uma%20Aula%20Experimental.
+LinkBehaviour_F4E84151_E142_42DD_41B5_2919DFFE2CA0.source = https://open.spotify.com/playlist/3kTr3kUcLy6ndE1J0wIy0z?si=9578807deb4243d5&nd=1
+LinkBehaviour_F4E88152_E142_42DF_41E3_2583B66B95FB.source = https://api.whatsapp.com/send?phone=5562981270596&text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20uma%20Aula%20Experimental.
+LinkBehaviour_F5AACA50_E14E_C6DB_41CD_BCCA9F1F0CBA.source = https://api.whatsapp.com/send?phone=5562981270596&text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20uma%20Aula%20Experimental.
+LinkBehaviour_F74A5EFA_E146_BFCF_41CD_E6B60D11B4A5.source = https://pt-br.facebook.com/ft38cf/
+LinkBehaviour_F74F8B8F_E141_C645_41D2_E3A08D86DC86.source = https://www.instagram.com/ft38_cf/
